@@ -1,7 +1,7 @@
 # WindowsChecker
 Windows Vulnerability and Privilege Escalation Scanner
 
-### 1 - launcher: This a batch file that does a simple Powershell download of the 'trigger' script. 
+### 1 - launcher:### This a batch file that does a simple Powershell download of the 'trigger' script. 
 
 ### 2 - trigger: This is a Powershell function script which does all the additional downloads and scripting logic.
 
