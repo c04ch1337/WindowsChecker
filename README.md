@@ -1,2 +1,2 @@
 # WindowsChecker
-Windows Vulnerability and Priviledge Escalation Scanner
+Windows Vulnerability and Privilege Escalation Scanner
